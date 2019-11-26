@@ -23,7 +23,7 @@
 #define THREAD_LOGS 0
 #define DEFAULT_STRATEGY "1"
 #define DEFAULT_GRANULARITY "1"
-#define ADDITIONAL_TIMER_LOGS 1 
+#define ADDITIONAL_TIMER_LOGS 1
 
 struct CustomBarrier
 {
